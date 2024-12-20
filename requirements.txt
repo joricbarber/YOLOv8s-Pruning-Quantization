@@ -1,0 +1,5 @@
+onnx
+onnxruntime
+opencv-python
+od-metrics
+ultralytics
