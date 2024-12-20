@@ -26,8 +26,8 @@ This project performs unstructured pruning, dynamic quantization, static quantiz
 │   └── yolov8s/
 │       └──  *.jpg
 ├── Optimization.ipynb # Notebook that optimizes and runs all experiments   
-├── requirements.txt # Python dependencies 
-└── README.md # Project documentation
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
 ```
 ## To Execute
 1. Clone the repository
