@@ -45,6 +45,7 @@ This project performs unstructured pruning, dynamic quantization, static quantiz
 |Dynamic Quantization|0.39|23.66|0.19|
 |Static Quantization|0.32|11.85|0.09|
 
+<sub>Note: Metrics differ slightly with every run.</sub>
 
 |YOLOv8s|Pruned YOLOv8s|Dynamic Quantized YOLOv8s|Static Quantized YOLOv8s|
 | ------------- | -------------| -------------| -------------|
